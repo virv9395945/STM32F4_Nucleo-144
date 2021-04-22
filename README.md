@@ -3,5 +3,5 @@
 <b>PRIMER REPOSITORIO SUBIDO DE PRUEBA dos</b>
 <b>En un futuro subire trabajos con MCU STM32</b>
 <b>Trabajando con STM32CubeIDE</b>
-<img src="CN8.png"><br>
+<img src="cn8 cn9.png"><br>
 Referencias:<br>
