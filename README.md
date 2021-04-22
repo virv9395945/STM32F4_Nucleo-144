@@ -4,12 +4,11 @@
 <img src="top and power.png"><br>
 #             Mcu
 <img src="mcu.png"><br>
-<b># st-link/v2-1</b>
+# st-link/v2-1
 <img src="st-link_v2-1.png"><br>
 # Usb
 <img src="usb.png"><br>
 # Ethernet
 <img src="ethernet PHY with R-45 connector.png"><br>
 # Extension connectors
-<img src="extension connectors.png"><br>
-Referencias:<br>
+<img src="extension connectors.png">
