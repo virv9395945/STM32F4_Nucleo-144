@@ -1,6 +1,6 @@
 # STM32F4_Nucleo-144 / Esquema Eléctrico Nucleo-144
 
-<TITLE>Top and Power</TITLE>
+<H1>Top and Power</H1>
 <img src="top and power.png"><br>
 # Mcu
 <img src="mcu.png"><br>
