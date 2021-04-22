@@ -13,3 +13,8 @@
 <img src="ethernet PHY with R-45 connector.png"><br>
 <H1>Extension connectors</H1>
 <img src="extension connectors.png">
+<BR>
+<H1>Conector 7 y 10</H1>
+<img src="cn7 cn10.png">
+<H1>Conector 8 y 9</H1>
+<img src="cn8 cn10.png">
