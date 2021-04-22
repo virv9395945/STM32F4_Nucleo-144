@@ -3,7 +3,7 @@
 <BR>
 <H1>Crital RTC</H1>
 <img src="xtal rtc.png">
-H1>LSE Crystal/Ceramic Resonator</H1>
+<H1>LSE Crystal/Ceramic Resonator</H1>
 <img src="xtal rtc 1.png">
-H1>Clock Configuracion</H1>
+<H1>Clock Configuracion</H1>
 <img src="xtal rtc 2.png">
