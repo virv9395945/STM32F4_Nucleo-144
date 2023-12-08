@@ -1,4 +1,4 @@
-# STM32F4_Nucleo-144 / Esquema Eléctrico Nucleo-144
+# STM32F4_Nucleo-144 / Esquema Eléctrico Nucleo-144.
 <BR>
 <BR>
 <H1>Top and Power</H1>
